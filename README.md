@@ -1,5 +1,7 @@
 # Empirical Comparison of Regression Methods for Variability-Aware Performance Prediction
 ## Description
+This repository contains code for a study on empirical comparison of different regression models for performance prediction of configurable software systems that was published in the Systems and Software Product Line Conference 2015 ([SPLC 2015](https://www.splc.net/splc2015/cfps.html)) proceedings.
+Below you will find the abstract of the published [paper](https://bit.ly/3d3T30d).
 
 ## Abstract
 Product line engineering derives product variants by selecting features.
